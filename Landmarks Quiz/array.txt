@@ -1,0 +1,19 @@
+let answers=[
+             ["Indonesia","Japan","China","Korea"],
+             ["Japan","USA","France","Jordan"],
+             ["China","Japan","Indonesia","Korea"],
+             ["India","Pakistan","USA","China"],
+             ["Egypt","Jordan","Syria","Sudan"],
+             ["France","UK","Italy","Brazil"],
+             ["USA","UK","France","Italy"],
+             ["UAE","Saudi Arabia","Kuwait","Bahrain"],
+             ["India","Pakistan","Iran","Turkey"],
+             ["UK","USA","Brazil","Korea"],
+             ["UAE","Bahrain","Kuwait","USA"],
+             ["USA","France","Italy","China"],
+             ["Saudi Arabia","UAE","Bahrain","Oman"],
+             ["UAE","Oman","Bahrain","Jordan"],
+             ["Egypt","Morocco","Tunis","Sudan"],
+             ["Jordan","Egypt","Morocco","Tunis"],
+                                
+            ]
